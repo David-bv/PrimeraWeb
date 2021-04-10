@@ -3,3 +3,25 @@ margin: 0px;
 padding: 0px;
 }
 
+footer {
+    background-color: black;
+    color:  white;
+    height: 80px;
+    text-align: center;
+}
+
+footer p {
+    padding-top: 2%;
+}
+
+.container {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+}
+
+.section-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
