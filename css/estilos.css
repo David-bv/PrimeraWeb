@@ -25,3 +25,20 @@ footer p {
     flex-wrap: wrap;
 }
 
+.character {  /* se modifica el artículo */
+    width: 25%;
+    margin: 3%;
+    border: 2px red solid; 
+    text-align: center;
+    border-radius: 5px; 
+}
+
+.character img {  /* se modifica la imagen dentro del artículo */
+    width: 80%;
+    border-radius: 3%;
+}
+
+.info-character {
+    text-align: justify;
+    padding: 3%; /* espacios alrededor del padding*/
+}
